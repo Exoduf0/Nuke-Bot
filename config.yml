@@ -1,0 +1,9 @@
+token: "YOUR_BOT_TOKEN"
+channelName: "test"
+channelNumber: 10
+allowedUserId: "0"
+messageToSend: "This is an automatic message."
+dmMessage: "This is a test message for DM."
+commandPrefix: ";"
+serverName: "YourServerName"
+serverIconURL: "https://example.com/your-icon.png"
